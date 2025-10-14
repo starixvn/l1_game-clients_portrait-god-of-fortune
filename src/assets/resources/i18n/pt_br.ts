@@ -476,6 +476,10 @@ export const languages = {
         "total_win": "Ganho Total",
         "Unexpected_gift_code_error_message": "Ocorreu um erro inesperado. Por favor, tente novamente mais tarde.",
         "Close": "Fechar"
+    },
+    "GodOfFortune": {
+        "game_name": "Deus da Fortuna",
+        "game_icon_name": "Deus da Fortuna"
     }
 };
 

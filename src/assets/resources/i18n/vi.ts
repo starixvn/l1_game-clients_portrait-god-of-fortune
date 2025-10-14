@@ -392,7 +392,7 @@ export const languages = {
         "you_win_free_spin": "Bạn đã thắng",
         "msg_random_multipliers": "Hệ Số Nhân ngẫu nhiên lên đến 500x",
         "btn_buy_free_spins": "Mua\nFree Spins",
-        "msg_free_spins": "Hệ Số Nhân tăng dần trong Free Spin",
+        "msg_free_spins": "Hệ Số Nhân cộng dồn trong Free Spin",
         "turbo_icon": "Siêu Tốc"
     },
     "Olympub": {
@@ -472,6 +472,10 @@ export const languages = {
         "total_bet": "Tổng Cược",
         "total_win": "Tổng Thắng",
         "Unexpected_gift_code_error_message": "Đã xảy ra lỗi. Vui lòng thử lại sau."
+    },
+    "GodOfFortune": {
+        "game_name": "Thần Tài Đến",
+        "game_icon_name": "Thần Tài Đến"
     }
 };
 

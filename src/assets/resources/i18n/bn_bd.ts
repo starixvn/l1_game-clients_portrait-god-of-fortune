@@ -472,6 +472,10 @@ export const languages = {
         "total_win": "মোট জয়",
         "Unexpected_gift_code_error_message": " অপ্রত্যাশিত ত্রুটি ঘটেছে। পরে আবার চেষ্টা করুন।",
         "Close": "বন্ধ"
+    },
+    "GodOfFortune": {
+        "game_name": "God of Fortune",
+        "game_icon_name": "God of Fortune"
     }
 };
 
