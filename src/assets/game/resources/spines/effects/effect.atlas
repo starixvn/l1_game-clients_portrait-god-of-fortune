@@ -1,369 +1,369 @@
 
 effect.webp
-size: 1299,1509
+size: 1311,1506
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 Confetti 1/bl_vfx_h_00
   rotate: false
-  xy: 948, 1018
+  xy: 377, 423
   size: 61, 24
   orig: 285, 240
   offset: 121, 127
   index: -1
 Confetti 1/bl_vfx_h_01
   rotate: false
-  xy: 1077, 448
+  xy: 1213, 649
   size: 87, 47
   orig: 285, 240
   offset: 102, 121
   index: -1
 Confetti 1/bl_vfx_h_02
   rotate: false
-  xy: 966, 434
+  xy: 1197, 78
   size: 109, 61
   orig: 285, 240
   offset: 89, 114
   index: -1
 Confetti 1/bl_vfx_h_03
   rotate: false
-  xy: 1131, 84
+  xy: 1156, 141
   size: 130, 76
   orig: 285, 240
   offset: 77, 105
   index: -1
 Confetti 1/bl_vfx_h_04
   rotate: false
-  xy: 1083, 356
+  xy: 982, 422
   size: 149, 90
   orig: 285, 240
   offset: 67, 96
   index: -1
 Confetti 1/bl_vfx_h_05
   rotate: false
-  xy: 1107, 252
+  xy: 1031, 31
   size: 164, 102
   orig: 285, 240
   offset: 59, 88
   index: -1
 Confetti 1/bl_vfx_h_06
   rotate: false
-  xy: 997, 497
+  xy: 852, 18
   size: 177, 115
   orig: 285, 240
   offset: 53, 80
   index: -1
 Confetti 1/bl_vfx_h_07
   rotate: false
-  xy: 1102, 1379
+  xy: 1001, 514
   size: 189, 128
   orig: 285, 240
   offset: 47, 72
   index: -1
 Confetti 1/bl_vfx_h_08
   rotate: false
-  xy: 997, 614
+  xy: 1104, 1364
   size: 201, 140
   orig: 285, 240
   offset: 41, 64
   index: -1
 Confetti 1/bl_vfx_h_09
   rotate: false
-  xy: 709, 202
+  xy: 1001, 644
   size: 210, 151
   orig: 285, 240
   offset: 37, 57
   index: -1
 Confetti 1/bl_vfx_h_10
   rotate: false
-  xy: 733, 39
+  xy: 1090, 797
   size: 219, 161
   orig: 285, 240
   offset: 33, 50
   index: -1
 Confetti 1/bl_vfx_h_11
   rotate: false
-  xy: 504, 25
+  xy: 709, 180
   size: 227, 172
   orig: 285, 240
   offset: 29, 42
   index: -1
 Confetti 1/bl_vfx_h_12
   rotate: false
-  xy: 729, 427
+  xy: 247, 4
   size: 235, 181
   orig: 285, 240
   offset: 25, 35
   index: -1
 Confetti 1/bl_vfx_h_13
   rotate: false
-  xy: 484, 422
+  xy: 2, 2
   size: 243, 190
   orig: 285, 240
   offset: 21, 28
   index: -1
 Confetti 1/bl_vfx_h_14
   rotate: false
-  xy: 746, 610
+  xy: 484, 412
   size: 249, 198
   orig: 285, 240
   offset: 18, 21
   index: -1
 Confetti 1/bl_vfx_h_15
   rotate: false
-  xy: 257, 3
+  xy: 735, 422
   size: 245, 187
   orig: 285, 240
   offset: 14, 34
   index: -1
 Confetti 1/bl_vfx_h_16
   rotate: false
-  xy: 2, 2
+  xy: 746, 611
   size: 253, 195
   orig: 285, 240
   offset: 10, 28
   index: -1
 Confetti 1/bl_vfx_h_17
   rotate: false
-  xy: 484, 614
+  xy: 484, 612
   size: 260, 200
   orig: 285, 240
   offset: 6, 22
   index: -1
 Confetti 1/bl_vfx_h_18
   rotate: false
-  xy: 484, 816
+  xy: 484, 814
   size: 265, 200
   orig: 285, 240
   offset: 3, 22
   index: -1
 Confetti 1/bl_vfx_h_19
   rotate: false
-  xy: 2, 199
+  xy: 2, 194
   size: 271, 205
   orig: 285, 240
   offset: 0, 17
   index: -1
 Confetti 1/bl_vfx_h_20
   rotate: false
-  xy: 751, 810
+  xy: 751, 808
   size: 253, 206
   orig: 285, 240
   offset: 20, 16
   index: -1
 Confetti 1/bl_vfx_h_21
   rotate: false
-  xy: 275, 192
+  xy: 275, 187
   size: 212, 212
   orig: 285, 240
   offset: 57, 10
   index: -1
 Confetti 1/bl_vfx_h_22
   rotate: false
-  xy: 1006, 756
+  xy: 938, 135
   size: 216, 217
   orig: 285, 240
   offset: 55, 5
   index: -1
 Confetti 1/bl_vfx_h_23
   rotate: false
-  xy: 489, 199
+  xy: 489, 189
   size: 218, 221
   orig: 285, 240
   offset: 54, 0
   index: -1
 Confetti 1/bl_vfx_h_24
   rotate: false
-  xy: 1056, 975
+  xy: 1090, 960
   size: 219, 218
   orig: 285, 240
   offset: 52, 2
   index: -1
 Freespins
   rotate: false
-  xy: 729, 355
-  size: 352, 70
+  xy: 735, 354
+  size: 353, 66
   orig: 354, 72
-  offset: 1, 1
+  offset: 0, 3
   index: -1
 bag-big
   rotate: false
-  xy: 954, 36
+  xy: 675, 14
   size: 175, 164
   orig: 186, 187
   offset: 3, 12
   index: -1
 bag-mega
   rotate: false
-  xy: 1101, 1195
+  xy: 1103, 1180
   size: 181, 182
   orig: 186, 187
   offset: 1, 4
   index: -1
 bag-sup
   rotate: false
-  xy: 921, 202
+  xy: 489, 36
   size: 184, 151
   orig: 186, 187
   offset: 0, 11
   index: -1
 bar
   rotate: false
-  xy: 484, 1018
+  xy: 484, 1016
   size: 462, 21
   orig: 464, 23
   offset: 1, 1
   index: -1
 board
   rotate: false
-  xy: 2, 1051
-  size: 524, 456
+  xy: 2, 1046
+  size: 526, 458
   orig: 529, 458
-  offset: 2, 1
+  offset: 1, 0
   index: -1
 board-big
   rotate: false
-  xy: 528, 1307
+  xy: 530, 1304
   size: 571, 99
   orig: 571, 99
   offset: 0, 0
   index: -1
 board-mega
   rotate: false
-  xy: 528, 1206
+  xy: 530, 1203
   size: 571, 99
   orig: 573, 101
   offset: 1, 1
   index: -1
 board-sup
   rotate: false
-  xy: 528, 1408
+  xy: 530, 1405
   size: 572, 99
   orig: 572, 100
   offset: 0, 0
   index: -1
 coin-spin/coin-01
   rotate: false
-  xy: 1200, 657
+  xy: 377, 449
   size: 97, 97
   orig: 120, 120
   offset: 12, 11
   index: -1
 coin-spin/coin-02
   rotate: false
-  xy: 377, 454
+  xy: 1213, 698
   size: 92, 97
   orig: 120, 120
   offset: 14, 11
   index: -1
 coin-spin/coin-03
   rotate: false
-  xy: 1224, 876
+  xy: 1006, 854
   size: 56, 97
   orig: 120, 120
   offset: 32, 11
   index: -1
 coin-spin/coin-04
   rotate: false
-  xy: 1176, 515
+  xy: 1192, 545
   size: 36, 97
   orig: 120, 120
   offset: 42, 11
   index: -1
 coin-spin/coin-05
   rotate: false
-  xy: 1277, 1100
+  xy: 1286, 1269
   size: 20, 93
   orig: 120, 120
   offset: 50, 13
   index: -1
 coin-spin/coin-06
   rotate: false
-  xy: 1234, 363
+  xy: 1156, 219
   size: 38, 97
   orig: 120, 120
   offset: 41, 11
   index: -1
 coin-spin/coin-08
   rotate: false
-  xy: 1234, 363
+  xy: 1156, 219
   size: 38, 97
   orig: 120, 120
   offset: 41, 11
   index: -1
 coin-spin/coin-09
   rotate: false
-  xy: 1224, 777
+  xy: 1230, 550
   size: 55, 97
   orig: 120, 120
   offset: 33, 11
   index: -1
 coin-spin/coin-10
   rotate: false
-  xy: 938, 1044
+  xy: 1133, 415
   size: 91, 97
   orig: 120, 120
   offset: 15, 11
   index: -1
 confetti-slide
   rotate: false
-  xy: 1214, 462
+  xy: 1156, 318
   size: 50, 95
   orig: 50, 95
   offset: 0, 0
   index: -1
 confetti-slide-1
   rotate: false
-  xy: 1107, 219
+  xy: 1287, 616
   size: 22, 31
   orig: 22, 31
   offset: 0, 0
   index: -1
 confetti-slide-2
   rotate: false
-  xy: 1277, 1072
+  xy: 709, 384
   size: 20, 26
   orig: 20, 27
   offset: 0, 1
   index: -1
 label
   rotate: false
-  xy: 528, 1041
+  xy: 530, 1039
   size: 408, 100
   orig: 410, 102
   offset: 1, 1
   index: -1
 light-cloud/circle light
   rotate: false
-  xy: 2, 553
+  xy: 2, 548
   size: 480, 496
   orig: 515, 509
   offset: 29, 6
   index: -1
 light-cloud/cloud
   rotate: false
-  xy: 528, 1143
-  size: 526, 61
+  xy: 530, 1141
+  size: 524, 60
   orig: 526, 64
-  offset: 0, 3
+  offset: 1, 3
   index: -1
 light-cloud/highlight
   rotate: false
-  xy: 2, 406
+  xy: 2, 401
   size: 373, 145
   orig: 395, 161
   offset: 11, 9
   index: -1
 pearl-mega
   rotate: false
-  xy: 1214, 559
+  xy: 1006, 953
   size: 77, 96
   orig: 80, 100
   offset: 1, 3
   index: -1
 pearlchain-sup
   rotate: false
-  xy: 1131, 162
+  xy: 940, 1051
   size: 141, 88
   orig: 153, 100
   offset: 7, 7
