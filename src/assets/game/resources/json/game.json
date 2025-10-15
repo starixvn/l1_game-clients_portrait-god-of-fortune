@@ -1,6 +1,6 @@
 {
     "turnOnEventMascot": true,
-    "turnOnMultiplierMascot": false,
+    "turnOnMultiplierMascot": true,
     "multiplierMascotAnimationName": "multiplier",
     "bigWinMascotAnimationName": "big-win",
     "freespinMascotAnimationName": "freespin",
