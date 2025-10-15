@@ -1,181 +1,167 @@
 
 btn-spin.webp
-size: 888,396
+size: 725,761
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 1
-  rotate: true
-  xy: 106, 19
-  size: 70, 113
-  orig: 70, 116
-  offset: 0, 2
+  rotate: false
+  xy: 146, 48
+  size: 85, 141
+  orig: 87, 145
+  offset: 1, 3
   index: -1
 1 copy
-  rotate: true
-  xy: 458, 209
-  size: 69, 113
-  orig: 70, 116
-  offset: 0, 1
+  rotate: false
+  xy: 522, 435
+  size: 85, 141
+  orig: 87, 145
+  offset: 1, 1
   index: -1
 3
   rotate: false
-  xy: 565, 97
-  size: 109, 110
-  orig: 116, 116
-  offset: 3, 4
+  xy: 382, 299
+  size: 137, 137
+  orig: 145, 145
+  offset: 3, 5
   index: -1
 3 - Copy
   rotate: false
-  xy: 453, 97
-  size: 110, 110
-  orig: 116, 116
-  offset: 2, 5
-  index: -1
-4
-  rotate: true
-  xy: 648, 209
-  size: 71, 68
-  orig: 73, 73
-  offset: 1, 3
-  index: -1
-5
-  rotate: false
-  xy: 573, 209
-  size: 73, 69
-  orig: 73, 73
-  offset: 0, 2
+  xy: 564, 621
+  size: 137, 138
+  orig: 145, 145
+  offset: 3, 6
   index: -1
 Layer 1
   rotate: false
-  xy: 307, 244
-  size: 149, 150
-  orig: 152, 152
-  offset: 1, 2
+  xy: 2, 191
+  size: 186, 187
+  orig: 190, 190
+  offset: 2, 2
   index: -1
 black-72-disable
   rotate: false
-  xy: 307, 97
-  size: 144, 145
-  orig: 152, 152
-  offset: 4, 5
+  xy: 382, 578
+  size: 180, 181
+  orig: 190, 190
+  offset: 5, 7
   index: -1
 hover
   rotate: false
-  xy: 2, 91
-  size: 303, 303
-  orig: 320, 320
-  offset: 10, 9
+  xy: 2, 380
+  size: 378, 379
+  orig: 400, 400
+  offset: 13, 11
   index: -1
 vfx/vfx-00
-  rotate: true
-  xy: 718, 218
-  size: 62, 80
-  orig: 152, 152
-  offset: 42, 36
+  rotate: false
+  xy: 233, 2
+  size: 76, 98
+  orig: 190, 190
+  offset: 53, 46
   index: -1
 vfx/vfx-01
   rotate: false
-  xy: 527, 9
-  size: 66, 86
-  orig: 152, 152
-  offset: 40, 32
+  xy: 571, 9
+  size: 82, 106
+  orig: 190, 190
+  offset: 50, 41
   index: -1
 vfx/vfx-02
-  rotate: true
-  xy: 221, 17
-  size: 72, 90
-  orig: 152, 152
-  offset: 36, 30
+  rotate: false
+  xy: 627, 253
+  size: 88, 112
+  orig: 190, 190
+  offset: 46, 38
   index: -1
 vfx/vfx-03
   rotate: false
-  xy: 695, 2
-  size: 74, 95
-  orig: 152, 152
-  offset: 35, 28
+  xy: 627, 367
+  size: 92, 118
+  orig: 190, 190
+  offset: 44, 35
   index: -1
 vfx/vfx-04
-  rotate: true
-  xy: 595, 16
-  size: 79, 98
-  orig: 152, 152
-  offset: 33, 26
+  rotate: false
+  xy: 471, 41
+  size: 98, 122
+  orig: 190, 190
+  offset: 42, 33
   index: -1
 vfx/vfx-05
-  rotate: true
-  xy: 2, 5
-  size: 84, 102
-  orig: 152, 152
-  offset: 32, 24
+  rotate: false
+  xy: 365, 37
+  size: 104, 126
+  orig: 190, 190
+  offset: 40, 31
   index: -1
 vfx/vfx-06
-  rotate: true
-  xy: 421, 6
-  size: 89, 104
-  orig: 152, 152
-  offset: 31, 24
+  rotate: false
+  xy: 489, 167
+  size: 110, 130
+  orig: 190, 190
+  offset: 39, 30
   index: -1
 vfx/vfx-07
-  rotate: true
-  xy: 313, 3
-  size: 92, 106
-  orig: 152, 152
-  offset: 30, 23
+  rotate: false
+  xy: 609, 487
+  size: 114, 132
+  orig: 190, 190
+  offset: 38, 29
   index: -1
 vfx/vfx-08
   rotate: false
-  xy: 782, 68
-  size: 98, 106
-  orig: 152, 152
-  offset: 27, 22
+  xy: 365, 165
+  size: 122, 132
+  orig: 190, 190
+  offset: 34, 28
   index: -1
 vfx/vfx-09
   rotate: false
-  xy: 676, 99
-  size: 104, 108
-  orig: 152, 152
-  offset: 24, 22
+  xy: 233, 102
+  size: 130, 134
+  orig: 190, 190
+  offset: 30, 28
   index: -1
 vfx/vfx-10
   rotate: false
-  xy: 574, 282
-  size: 112, 112
-  orig: 152, 152
-  offset: 20, 20
+  xy: 382, 438
+  size: 138, 138
+  orig: 190, 190
+  offset: 26, 26
   index: -1
 vfx/vfx-11
   rotate: false
-  xy: 458, 280
-  size: 114, 114
-  orig: 152, 152
-  offset: 19, 19
+  xy: 2, 47
+  size: 142, 142
+  orig: 190, 190
+  offset: 24, 24
   index: -1
 vfx/vfx-12
   rotate: false
-  xy: 688, 282
-  size: 112, 112
-  orig: 152, 152
-  offset: 20, 20
+  xy: 190, 238
+  size: 140, 140
+  orig: 190, 190
+  offset: 25, 25
   index: -1
 vfx/vfx-13
   rotate: false
-  xy: 802, 286
-  size: 84, 108
-  orig: 152, 152
-  offset: 28, 21
+  xy: 521, 299
+  size: 104, 134
+  orig: 190, 190
+  offset: 36, 27
   index: -1
 vfx/vfx-14
   rotate: false
-  xy: 802, 176
-  size: 84, 108
-  orig: 152, 152
-  offset: 28, 21
+  xy: 601, 117
+  size: 104, 134
+  orig: 190, 190
+  offset: 36, 27
   index: -1
 vfx/vfx-15
   rotate: false
-  xy: 307, 91
+  xy: 190, 232
   size: 4, 4
-  orig: 152, 152
-  offset: 80, 60
+  orig: 190, 190
+  offset: 101, 76
   index: -1

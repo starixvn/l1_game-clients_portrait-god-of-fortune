@@ -1,17 +1,19 @@
 {
-"skeleton": { "hash": "woo+I7Y6OZMUwGXqOZra/dJNf2I", "spine": "3.8.99" },
+"skeleton": { "hash": "xMdwA0oEoP9S8gVs3sFFteCgLyE", "spine": "3.8.99" },
 "bones": [
 	{ "name": "root" },
 	{ "name": "button", "parent": "root" },
 	{ "name": "spin-bg", "parent": "root" },
-	{ "name": "arrow", "parent": "root" },
-	{ "name": "decor-2", "parent": "root" },
-	{ "name": "dercor-1", "parent": "root" },
+	{ "name": "decor", "parent": "root", "x": -1.53, "y": 4.58 },
+	{ "name": "decor-2", "parent": "decor" },
+	{ "name": "dercor-1", "parent": "decor" },
 	{ "name": "light", "parent": "root" },
-	{ "name": "arrow-blur", "parent": "root" },
 	{ "name": "vfx-idle", "parent": "root", "scaleX": 2, "scaleY": 2 },
 	{ "name": "hover", "parent": "root" },
-	{ "name": "disable-black-overlay", "parent": "root", "scaleX": 1.0046, "scaleY": 1.0046 }
+	{ "name": "disable-black-overlay", "parent": "root", "scaleX": 1.0046, "scaleY": 1.0046 },
+	{ "name": "decor2", "parent": "root", "x": -1.53, "y": 4.58 },
+	{ "name": "decor-3", "parent": "decor2" },
+	{ "name": "dercor-2", "parent": "decor2" }
 ],
 "slots": [
 	{ "name": "hover", "bone": "hover", "color": "ffffff00", "blend": "additive" },
@@ -19,9 +21,9 @@
 	{ "name": "3 - Copy", "bone": "light", "color": "ff787800", "dark": "000000", "blend": "additive" },
 	{ "name": "button", "bone": "button", "color": "ffffff00" },
 	{ "name": "1", "bone": "dercor-1", "color": "ffffff00" },
+	{ "name": "2", "bone": "dercor-2", "color": "ffffff00" },
 	{ "name": "1 copy", "bone": "decor-2", "color": "ffffff00" },
-	{ "name": "4", "bone": "arrow", "color": "ffffff00" },
-	{ "name": "5", "bone": "arrow-blur", "color": "ffffff00" },
+	{ "name": "1 copy2", "bone": "decor-3", "color": "ffffff00" },
 	{ "name": "vfx/vfx-00", "bone": "vfx-idle", "color": "ffffff00", "blend": "additive" },
 	{ "name": "black-72-disable", "bone": "disable-black-overlay" }
 ],
@@ -35,14 +37,14 @@
 			"1 copy": {
 				"1 copy": { "x": 50.35, "y": -11.64, "width": 87, "height": 145 }
 			},
+			"1 copy2": {
+				"1 copy": { "x": 50.35, "y": -11.64, "width": 87, "height": 145 }
+			},
+			"2": {
+				"1": { "x": -49.26, "y": 18.97, "width": 87, "height": 145 }
+			},
 			"3 - Copy": {
 				"3 - Copy": { "scaleX": 1.124, "scaleY": 1.124, "width": 145, "height": 145 }
-			},
-			"4": {
-				"4": { "width": 91, "height": 91 }
-			},
-			"5": {
-				"5": { "x": 0.5, "y": 0.5, "width": 91, "height": 91 }
 			},
 			"Layer 1": {
 				"Layer 1": { "x": -0.15, "y": -0.53, "width": 190, "height": 190 }
@@ -128,25 +130,28 @@
 					{ "name": "1 copy" }
 				]
 			},
+			"1 copy2": {
+				"color": [
+					{ "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "name": "1 copy" }
+				]
+			},
+			"2": {
+				"color": [
+					{ "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "name": "1" }
+				]
+			},
 			"3 - Copy": {
 				"twoColor": [
 					{ "light": "ff7878ff", "dark": "000000" }
 				],
 				"attachment": [
 					{ "name": "3 - Copy" }
-				]
-			},
-			"4": {
-				"color": [
-					{ "color": "ffffffff" }
-				],
-				"attachment": [
-					{ "name": "4" }
-				]
-			},
-			"5": {
-				"color": [
-					{ "color": "ffffff00" }
 				]
 			},
 			"Layer 1": {
@@ -176,11 +181,18 @@
 					{ "time": 3.3333 }
 				]
 			},
-			"arrow": {
+			"decor": {
 				"rotate": [
-					{ "angle": 1 },
-					{ "time": 1.6667, "angle": -88.54 },
-					{ "time": 3.3333, "angle": 180 }
+					{},
+					{ "time": 1.6667, "angle": -6.96 },
+					{ "time": 3.3333 }
+				]
+			},
+			"decor2": {
+				"rotate": [
+					{},
+					{ "time": 1.6667, "angle": -6.96 },
+					{ "time": 3.3333 }
 				]
 			}
 		}
@@ -189,7 +201,10 @@
 		"slots": {
 			"1": {
 				"color": [
-					{ "color": "ffffffff" }
+					{ "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.3333, "color": "ffffffff" },
+					{ "time": 1.6667, "color": "ffffff00" }
 				],
 				"attachment": [
 					{ "name": "1" }
@@ -197,10 +212,35 @@
 			},
 			"1 copy": {
 				"color": [
-					{ "color": "ffffffff" }
+					{ "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.3333, "color": "ffffffff" },
+					{ "time": 1.6667, "color": "ffffff00" }
 				],
 				"attachment": [
 					{ "name": "1 copy" }
+				]
+			},
+			"1 copy2": {
+				"color": [
+					{ "time": 1.6667, "color": "ffffff00" },
+					{ "time": 2, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 3, "color": "ffffffff" },
+					{ "time": 3.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": "1 copy" }
+				]
+			},
+			"2": {
+				"color": [
+					{ "time": 1.6667, "color": "ffffff00" },
+					{ "time": 2, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 3, "color": "ffffffff" },
+					{ "time": 3.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": "1" }
 				]
 			},
 			"3 - Copy": {
@@ -209,23 +249,6 @@
 				],
 				"attachment": [
 					{ "name": "3 - Copy" }
-				]
-			},
-			"4": {
-				"color": [
-					{ "color": "ffffffff" },
-					{ "time": 0.2333, "color": "ffffff00" }
-				],
-				"attachment": [
-					{ "name": "4" }
-				]
-			},
-			"5": {
-				"color": [
-					{ "color": "ffffffff" }
-				],
-				"attachment": [
-					{ "name": "5" }
 				]
 			},
 			"Layer 1": {
@@ -253,22 +276,6 @@
 					{ "time": 1.6667, "curve": 0.25, "c3": 0.75 },
 					{ "time": 2.5, "x": 0.9, "y": 0.9, "curve": 0.25, "c3": 0.75 },
 					{ "time": 3.3333 }
-				]
-			},
-			"arrow": {
-				"rotate": [
-					{},
-					{ "time": 0.3, "angle": 180 },
-					{ "time": 0.6 },
-					{ "time": 0.9, "angle": 180 },
-					{ "time": 1.2 },
-					{ "time": 1.5333, "angle": 180 },
-					{ "time": 1.8333 },
-					{ "time": 2.1333, "angle": 180 },
-					{ "time": 2.4333 },
-					{ "time": 2.7333, "angle": 180 },
-					{ "time": 3.0333 },
-					{ "time": 3.3333, "angle": 180 }
 				]
 			},
 			"button": {
@@ -278,20 +285,17 @@
 					{ "time": 0.3333 }
 				]
 			},
-			"arrow-blur": {
+			"decor": {
 				"rotate": [
 					{},
-					{ "time": 0.3, "angle": 180 },
-					{ "time": 0.6 },
-					{ "time": 0.9, "angle": 180 },
-					{ "time": 1.2 },
-					{ "time": 1.5, "angle": 180 },
-					{ "time": 1.8 },
-					{ "time": 2.1333, "angle": 180 },
-					{ "time": 2.4333 },
-					{ "time": 2.7333, "angle": 180 },
-					{ "time": 3.0333 },
-					{ "time": 3.3333, "angle": 180 }
+					{ "time": 1.8333, "angle": -110 }
+				]
+			},
+			"decor2": {
+				"rotate": [
+					{ "angle": -110, "curve": "stepped" },
+					{ "time": 1.5, "angle": -110 },
+					{ "time": 3.3333, "angle": -178.88 }
 				]
 			}
 		}

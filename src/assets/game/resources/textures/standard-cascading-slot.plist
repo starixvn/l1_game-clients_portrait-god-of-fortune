@@ -90,7 +90,7 @@
                 <key>spriteSourceSize</key>
                 <string>{188,60}</string>
                 <key>textureRect</key>
-                <string>{{237,723},{188,60}}</string>
+                <string>{{233,723},{188,60}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -249,30 +249,30 @@
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{-1,0}</string>
+                <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{82,100}</string>
+                <string>{91,91}</string>
                 <key>spriteSourceSize</key>
-                <string>{100,100}</string>
+                <string>{91,91}</string>
                 <key>textureRect</key>
-                <string>{{135,753},{82,100}}</string>
+                <string>{{245,865},{91,91}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>spin-roll.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{-1,0}</string>
+                <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{86,100}</string>
+                <string>{91,91}</string>
                 <key>spriteSourceSize</key>
-                <string>{100,100}</string>
+                <string>{91,91}</string>
                 <key>textureRect</key>
-                <string>{{135,579},{86,100}}</string>
+                <string>{{135,835},{91,91}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>symbol-0.png</key>
             <dict>
@@ -285,7 +285,7 @@
                 <key>spriteSourceSize</key>
                 <string>{110,110}</string>
                 <key>textureRect</key>
-                <string>{{245,785},{86,96}}</string>
+                <string>{{135,665},{86,96}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -300,7 +300,7 @@
                 <key>spriteSourceSize</key>
                 <string>{110,110}</string>
                 <key>textureRect</key>
-                <string>{{245,873},{80,96}}</string>
+                <string>{{135,753},{80,96}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -375,7 +375,7 @@
                 <key>spriteSourceSize</key>
                 <string>{110,110}</string>
                 <key>textureRect</key>
-                <string>{{343,785},{88,84}}</string>
+                <string>{{341,785},{88,84}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -390,7 +390,7 @@
                 <key>spriteSourceSize</key>
                 <string>{110,110}</string>
                 <key>textureRect</key>
-                <string>{{135,917},{88,78}}</string>
+                <string>{{135,928},{88,78}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -405,7 +405,7 @@
                 <key>spriteSourceSize</key>
                 <string>{110,110}</string>
                 <key>textureRect</key>
-                <string>{{135,667},{84,100}}</string>
+                <string>{{135,579},{84,100}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -450,7 +450,7 @@
                 <key>spriteSourceSize</key>
                 <string>{110,110}</string>
                 <key>textureRect</key>
-                <string>{{135,837},{94,78}}</string>
+                <string>{{245,785},{94,78}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -573,7 +573,7 @@
             <key>size</key>
             <string>{1024,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:709558e0fa3e0623534c839d715ac7f9:aa2ff182f0405039a5e3e322dedbcfde:40ee7df176381dd4082d4248ef6d2be1$</string>
+            <string>$TexturePacker:SmartUpdate:52066a56be0dfb4cb5d8fb204edfc57f:50b9be93cd83f1f8cfa937ce1c3b8adf:40ee7df176381dd4082d4248ef6d2be1$</string>
             <key>textureFileName</key>
             <string>standard-cascading-slot.webp</string>
         </dict>
