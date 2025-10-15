@@ -110,7 +110,7 @@ star 1
   offset: 4, 2
   index: -1
 
-icon-game2.png
+icon-game2.webp
 size: 1566,164
 format: RGBA8888
 filter: Linear,Linear
@@ -235,7 +235,7 @@ firework 5/final_16
   offset: 0, 0
   index: -1
 
-icon-game3.png
+icon-game3.webp
 size: 1460,84
 format: RGBA8888
 filter: Linear,Linear
